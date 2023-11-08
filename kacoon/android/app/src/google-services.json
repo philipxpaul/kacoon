@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "773133299388",
+    "project_id": "kacoon-62e55",
+    "storage_bucket": "kacoon-62e55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773133299388:android:a9d0a89bbb4a9df6002ab9",
+        "android_client_info": {
+          "package_name": "com.kacoon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8U2YEprTWhXg2ibv6_DHNc6Ah4TgMfjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
